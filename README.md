@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://saludjays1502.github.io/.github/mindnode">
+<a href="https://mayumemi0104.github.io/.github/mindnode">
 <img src="https://img.shields.io/badge/GET_MindNode-darkgreen?style=for-the-badge&logo=apple" alt="GET MindNode">
 </a>
 </div>
